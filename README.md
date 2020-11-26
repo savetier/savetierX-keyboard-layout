@@ -18,9 +18,11 @@ And this is the result so far:
 ![Level 1](https://raw.githubusercontent.com/savetier/savetier-keyboard-layout/main/savetier_keyb_layout_level1.png)
 
 All levels:
+
 ![Level 1](https://raw.githubusercontent.com/savetier/savetier-keyboard-layout/main/savetier_keyb_layout_level3+4.png)
 
 SAVETIER VS. COLEMAK
+
 ![Savetier vs. Colemak](https://github.com/savetier/savetier-keyboard-layout/blob/main/savetier-colemak-compare.png)
 
 
