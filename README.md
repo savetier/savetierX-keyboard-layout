@@ -27,7 +27,15 @@ SavetierX VS. Colemak
 
 
 
-INSTALL (on Ubuntu):
+# Install (on Ubuntu):
 The easiest way to install this layout is to rename it to one you would never use (I renamed it to 'be', because I will never use the Belgian layout) and replace this file in the /usr/share/X11/xkb/symbols folder. After that you simply need to add the Belgian (or whichever you have chosen) layout to your keyboard layout profile. 
+
+	wget https://raw.githubusercontent.com/savetier/savetierX-keyboard-layout/main/savetierX
+
+	sudo mv savetierX /usr/share/X11/xkb/symbols/be
+
+  (Change 'at' in the end to the one you want to replace)
+
+
 
 In case you have any suggestions, don't hesitate to let me know :-)
