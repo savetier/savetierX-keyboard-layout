@@ -22,5 +22,7 @@ LEVEL 1 & 2
 LEVEL 3 & 4
 
 ![Savetier vs. Colemak](https://github.com/savetier/savetier-keyboard-layout/blob/main/savetier-colemak-compare.png)
+SAVETIER VS. COLEMAK
+
 
 In case you have any suggestions, don't hesitate to let me know :-)
