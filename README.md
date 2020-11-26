@@ -1,4 +1,4 @@
-# savetier-keyboard-layout
+# savetierX-keyboard-layout
 A new take on the Colemak layout, mostly for central European languages
 
 From the alternative keyboard layouts my favourite is Colemak. However, it has its flaws for central and eastern European languages which I intent to fix with the Savetier layout. This layout is very suitable for linguists and language enthusiasts!
