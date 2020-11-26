@@ -34,7 +34,7 @@ The easiest way to install this layout is to rename it to one you would never us
 
 	sudo mv savetierX /usr/share/X11/xkb/symbols/be
 
-  (Change 'at' in the end to the one you want to replace)
+  (Change 'be' in the end to the one you want to replace)
 
 
 
