@@ -9,7 +9,7 @@ The basic ideas:
 
 2) I wanted to include as many central and eastern European languages as possible. With this layout you should be able to write flawlessly in German, English, Hungarian, Polish, Slovak, Czech, Slovene, Croatian, Serbian, Bosnian, Romanian, and Turkish without switching.
 
-3) I wanted to keep the main keyboard-shortcuts at their place. A problem I see with Colemak is that e.g. CTRL+S (save) is at a different place (it kept cut/copy/paste, gladly). This could lead to a catastrophe if you have to often switch between QWERTY/Z and Colemak. For that reason I wanted to keep CTRL+A/S/X/C/V/Q/W as they were, and bring CTRL+F/P/Z/T within the closer reach of your left hand.
+3) I wanted to keep the main keyboard-shortcuts at their place. A problem I see with Colemak is that e.g. CTRL+S (save) is at a different place (it kept cut/copy/paste, gladly). This could lead to a catastrophe if you have to often switch between QWERTY/Z and Colemak. For that reason I wanted to keep CTRL+A/S/X/C/V/Q/W as they were, and bring CTRL+F/P/Z/T within the closer reach of your left hand (like it is in Colemak already).
 
 4) As a passionate gamer I wanted to keep at least W, A, S, D (for directions) at their place.
 
