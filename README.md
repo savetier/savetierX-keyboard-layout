@@ -16,16 +16,16 @@ The basic ideas:
 And this is the result so far:
 
 ![Level 1](https://raw.githubusercontent.com/savetier/savetier-keyboard-layout/main/savetier_keyb_layout_level1.png)
-LEVEL 1 & 2
 
+All levels:
 ![Level 1](https://raw.githubusercontent.com/savetier/savetier-keyboard-layout/main/savetier_keyb_layout_level3+4.png)
-LEVEL 3 & 4
-
-![Savetier vs. Colemak](https://github.com/savetier/savetier-keyboard-layout/blob/main/savetier-colemak-compare.png)
 
 SAVETIER VS. COLEMAK
+![Savetier vs. Colemak](https://github.com/savetier/savetier-keyboard-layout/blob/main/savetier-colemak-compare.png)
 
-INSTALL:
+
+
+INSTALL (on Ubuntu):
 The easiest way to install this layout is to rename it to one you would never use (I renamed it to 'be', because I will never use the Belgian layout) and replace this file in the /usr/share/X11/xkb/symbols folder. After that you simply need to add the Belgian (or whichever you have chosen) layout to your keyboard layout profile. 
 
 In case you have any suggestions, don't hesitate to let me know :-)
