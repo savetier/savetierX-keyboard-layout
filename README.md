@@ -21,4 +21,6 @@ LEVEL 1 & 2
 ![Level 1](https://raw.githubusercontent.com/savetier/savetier-keyboard-layout/main/savetier_keyb_layout_level3.png)
 LEVEL 3 & 4
 
+![Savetier vs. Colemak](https://github.com/savetier/savetier-keyboard-layout/blob/main/savetier-colemak-compare.png)
+
 In case you have any suggestions, don't hesitate to let me know :-)
