@@ -1,7 +1,7 @@
 # savetierX-keyboard-layout
 A transformed Colemak layout, mostly for central European languages
 
-From the alternative keyboard layouts my favourite is Colemak. However, it has its flaws for central and eastern European languages which I intent to fix with the Savetier layout. This layout is very suitable for polyglots, linguists, language enthusiasts, Slavs, Slavists, Magyars, Romanians, and many more!
+From the alternative keyboard layouts my favourite is Colemak. However, it has its flaws for central and eastern European languages which I intent to fix with the SavetierX layout. This layout is very suitable for polyglots, linguists, language enthusiasts, Slavs, Slavists, Magyars, Romanians, and many more!
 
 The basic ideas:
 
