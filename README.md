@@ -13,6 +13,8 @@ The basic ideas:
 
 4) As a passionate gamer I wanted to keep W, A, S, D (for directions) at their place.
 
+SavetierX is a compromise between usability, adaptability, ergonomy and comfort.
+
 And this is the result so far:
 
 ![Level 1](https://raw.githubusercontent.com/savetier/savetier-keyboard-layout/main/savetier_keyb_layout_level1.png)
