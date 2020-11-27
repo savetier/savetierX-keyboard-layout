@@ -5,13 +5,15 @@ From the alternative keyboard layouts my favourite is Colemak. However, it has i
 
 The basic ideas:
 
-1) Colemak was intended mostly for writing English texts. As a German native speaker I am dealing mostly with German texts. The German layout provides the Umlauts which are also used in other languages, like Hungarian, Turkish, or Swedish. That's why I have chosen the German keyboard layout as a basis. 
+1) The German layout provides the Umlauts which are also used in other languages, like Hungarian, Turkish, or Swedish. That's why I have chosen the German keyboard layout as a basis. 
 
 2) I wanted to include as many central and eastern European languages as possible. With this layout you should be able to write flawlessly in German, English, Hungarian, Polish, Slovak, Czech, Slovene, Croatian, Serbian, Bosnian, Montenegrine, Romanian, and Turkish without switching.
 
 3) I wanted to keep the main keyboard-shortcuts at their place. A problem I see with Colemak is that e.g. CTRL+S (save) is at a different place (it kept cut/copy/paste, gladly). This could lead to a catastrophe if you have to often switch between QWERTZ and Colemak. For that reason I wanted to keep CTRL+A/S/X/C/V/Q/W as they were in QWERTZ, and bring CTRL+F/P/Z/T within the closer reach of your left hand (like it is in Colemak already).
 
 4) As a passionate gamer I wanted to keep W, A, S, D (for directions) at their place.
+
+	TIP for German speakers: With 'autokey-gtk' you can transform the 105th key (if you have got it) into a 'sch'-key. Makes life a lot easier!
 
 SavetierX is a compromise between usability, adaptability, ergonomy and comfort.
 
