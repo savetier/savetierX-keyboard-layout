@@ -13,7 +13,7 @@ The basic ideas:
 
 4) As a passionate gamer I wanted to keep W, A, S, D (for directions) at their place.
 
-	TIP for German speakers: With 'autokey-gtk' you can transform the 105th key (if you have got it) into a 'sch'-key. Makes life a lot easier!
+		TIP for German speakers: With 'autokey-gtk' you can transform the 105th key (if you have got it) into a 'sch'-key. Makes life a lot easier!
 
 SavetierX is a compromise between usability, adaptability, ergonomy and comfort.
 
